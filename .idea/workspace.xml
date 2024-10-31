@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d29fd53-70bd-4832-8e52-0852ed3f8c6b" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PasteUWord.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PastUWord.py" afterDir="false" />
-    </list>
+    <list default="true" id="7d29fd53-70bd-4832-8e52-0852ed3f8c6b" name="更改" comment="V0.8&#10;实现基本功能，快捷键 CTRL+`呼出用户界面。显示最近10条剪贴板历史记录。当用户选中剪贴板历史记录中的某段文字后，选择pasteSelected，或者F9快捷键。会将选中文字纯文本粘贴到需要输入的位置。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730382685566</updated>
     </task>
+    <task id="LOCAL-00001" summary="V0.8&#10;实现基本功能，快捷键 CTRL+`呼出用户界面。显示最近10条剪贴板历史记录。当用户选中剪贴板历史记录中的某段文字后，选择pasteSelected，或者F9快捷键。会将选中文字纯文本粘贴到需要输入的位置。">
+      <option name="closed" value="true" />
+      <created>1730386375669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730386375669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V0.8&#10;实现基本功能，快捷键 CTRL+`呼出用户界面。显示最近10条剪贴板历史记录。当用户选中剪贴板历史记录中的某段文字后，选择pasteSelected，或者F9快捷键。会将选中文字纯文本粘贴到需要输入的位置。" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.8&#10;实现基本功能，快捷键 CTRL+`呼出用户界面。显示最近10条剪贴板历史记录。当用户选中剪贴板历史记录中的某段文字后，选择pasteSelected，或者F9快捷键。会将选中文字纯文本粘贴到需要输入的位置。" />
   </component>
 </project>
